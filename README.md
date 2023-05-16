@@ -5,7 +5,7 @@ Connect with me:
 ---
 [<img src="telegram.png" width="72px">](http://t.me/akaangul)
 [<img src="twitter.png" width="72px">](https://twitter.com/akaangul) 
-[<img src="linkedin.png" width="72px">](https://www.linkedin.com/in/baran-genez-ba759419a/) 
+[<img src="linkedin.png" width="72px">]([https://www.linkedin.com/in/baran-genez-ba759419a/](https://www.linkedin.com/in/kaan-g%C3%BCl-976341277/)) 
 [<img src="discord.png" width="72px">](https://discord.gg/uWy2RguGEK) 
 
 📫 How to reach me akaangul@gmail.com
