@@ -22,7 +22,3 @@ Connect with me:
 | <img src="tailwind.png" width="120px">   | At the time of writing this article, I just started learning. I even made a project with it. I think it looks pretty ugly when I write it inside the classes. I found the solution to this by writing it in module.css using @apply. I loved it for now.  |  
 ---
 
-
-
-
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=clophy&show_icons=true&theme=radical)
