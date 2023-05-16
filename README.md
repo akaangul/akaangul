@@ -6,9 +6,9 @@ Connect with me:
 [<img src="twitter.png" width="72px">](https://twitter.com/akaangul) 
 [<img src="linkedin.png" width="72px">](https://www.linkedin.com/in/baran-genez-ba759419a/) 
 [<img src="discord.png" width="72px">](https://discord.gg/uWy2RguGEK) 
-[<img src="telegram.png" width="72px">](http://t.me/Clophy)
+[<img src="telegram.png" width="72px">](http://t.me/akaangul)
 
-📫 How to reach me barangenez@hotmail.com
+📫 How to reach me akaangul@gmail.com
 
 
 ## Languages and Tools:
